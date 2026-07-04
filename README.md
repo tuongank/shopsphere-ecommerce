@@ -95,3 +95,18 @@ Customer: customer@example.com / Customer@123
 - In Review
 - Changes Requested
 - Done
+
+## Backend:
+- Java 17+
+- Spring Boot 3.x
+- Spring Web
+- Spring Data JPA
+- Spring Security
+- MySQL
+- Maven
+- Docker Compose
+- Lombok
+- Validation
+- JWT
+- Swagger/OpenAPI
+- JUnit 5
